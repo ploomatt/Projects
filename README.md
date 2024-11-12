@@ -1,2 +1,2 @@
-# Data Science Projects
-Welcome to my repository of personal data science projects! This collection showcases a variety of projects I've developed to explore data-driven solutions, sharpen my analytical skills, and experiment with different data science methodologies. Each project reflects my passion for deriving meaningful insights from data and applying machine learning, data visualization, and statistical techniques.
+# Data Visualization Projects
+Welcome to the Data Visualization Projects repository! This repository contains various data visualization projects showcasing different techniques and tools used to explore and present data effectively.
