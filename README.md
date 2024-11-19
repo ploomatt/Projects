@@ -25,7 +25,12 @@ Description:
 >>CustomerID: Unique ID for each customer
 >>
 >>Country: The country were the customer lives
->>
+## Technologies & Libraries
+>VsCode(IDE)<br>
+>JupyterNotebooks Extension<br>
+>Python<br>
+>Libraries: Pandas, Seaborn, Matplotlib, Plotly
+
 
 
 
