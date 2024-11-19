@@ -6,7 +6,7 @@ Description:
 #### Motivation
 >The purpose of this project is to analyze global trends, purchasing behaviors, and sales performance over the course of the year. By visualizing key metrics such as sales volume, customer demographics, and regional activity, the project aims to uncover insights into how different markets contributed to the overall eCommerce landscape. The visualizations will help identify patterns and anomalies, providing a clearer understanding of global eCommerce dynamics during the year 2011.
 #### Features
->Heatmaps and different charts were implemented to picture trends and patterns in eCommerce sales throughout 2011
+>Different charts such as bar graphs, line graphs, and heatmaps were implemented to picture trends and patterns in eCommerce sales throughout 2011
 ## Data
 #### Data Source
 >https://www.kaggle.com/code/sinaasappel/ecommerce-data-exploration-and-visualization/report#index
