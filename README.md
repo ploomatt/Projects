@@ -13,12 +13,19 @@ Description:
 #### Data Structure
 >The data is organized into 8 columns:
 >>InvoiceNo: Unique ID to identify each Invoice
+>>
 >>StockCode: Unique ID for each item in stock
+>>
 >>Description: A short description for each item
+>>
 >>Quantity: Number of items bought
+>>
 >>UnitPrice: The price of each item
->>CustomerID: Unique ID for each custumer
->>Country: The country were the custumer lives
+>>
+>>CustomerID: Unique ID for each customer
+>>
+>>Country: The country were the customer lives
+>>
 
 
 
