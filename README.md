@@ -9,7 +9,7 @@ Description:
 >Different charts such as bar graphs, line graphs, and heatmaps were implemented to picture trends and patterns in eCommerce sales throughout 2011
 ## Data
 #### Data Source
->[https://www.kaggle.com/code/sinaasappel/ecommerce-data-exploration-and-visualization/report#index](https://archive.ics.uci.edu/dataset/352/online+retail)
+>https://archive.ics.uci.edu/dataset/352/online+retail
 #### Data Structure
 >The data is organized into 8 columns:
 >>InvoiceNo: Unique ID to identify each Invoice
