@@ -10,6 +10,7 @@ Description:
 ## Data
 #### Data Source
 >https://archive.ics.uci.edu/dataset/352/online+retail
+>The Data file will be attached in the repository as "EcommerceData"<br>
 #### Data Structure
 >The data is organized into 8 columns:
 >>InvoiceNo: Unique ID to identify each Invoice
