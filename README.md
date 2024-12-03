@@ -9,7 +9,7 @@ Description:
 >Different charts such as bar graphs, line graphs, and heatmaps were implemented to picture trends and patterns in eCommerce sales throughout 2011
 ## Data
 #### Data Source
->https://archive.ics.uci.edu/dataset/352/online+retail
+>https://archive.ics.uci.edu/dataset/352/online+retail <br>
 >The Data file will be attached in the repository as "EcommerceData"<br>
 #### Data Structure
 >The data is organized into 8 columns:
